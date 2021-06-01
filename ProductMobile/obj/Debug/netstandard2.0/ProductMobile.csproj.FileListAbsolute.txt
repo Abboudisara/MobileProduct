@@ -1,0 +1,11 @@
+C:\Users\Youcode\Desktop\ProductMobile\bin\Debug\netstandard2.0\ProductMobile.dll.config
+C:\Users\Youcode\Desktop\ProductMobile\bin\Debug\netstandard2.0\ProductMobile.deps.json
+C:\Users\Youcode\Desktop\ProductMobile\bin\Debug\netstandard2.0\ProductMobile.dll
+C:\Users\Youcode\Desktop\ProductMobile\bin\Debug\netstandard2.0\ProductMobile.pdb
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.dll.config
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.dll
+C:\Users\Youcode\Desktop\ProductMobile\obj\Debug\netstandard2.0\ProductMobile.pdb
