@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Product.Views.AjouterProduit">
+    <ContentPage.Content>
+        <StackLayout Margin="20,35,20,20">
+            <Entry x:Name="nameEntry"
+               Placeholder="Enter name" TextColor="Black" PlaceholderColor="Black" />
+            <Entry x:Name="priceEntry"
+               Placeholder="Enter price" TextColor="Black"  PlaceholderColor="Black"  />
+            <Entry x:Name="quantityEntry"
+               Placeholder="Enter quantity" TextColor="Black"  PlaceholderColor="Black"  />
+            <Button Text="Add to Database"
+                Clicked="AjouterProduitBtn" />
+            <CollectionView x:Name="collectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                    
+                        
+                        
+                        <StackLayout >
+                            <StackLayout Orientation="Horizontal">
+                                <Button Text="Delete" BackgroundColor="Red" TextColor="White" CommandParameter="{Binding ID}" Clicked="DeleteProduitBtn"/>
+                                <Button Text="Delete" BackgroundColor="Green" CommandParameter="{Binding ID}" TextColor="White" />
+
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Name}"
+                               FontSize="Medium" TextColor="Black" />
+                                <Label Text="{Binding Price}"
+                               TextColor="Silver"
+                               FontSize="Small" />
+                                <Label Text="{Binding Quantity}"
+                               TextColor="Silver"
+                               FontSize="Small" />
+                            </StackLayout>
+                            <Label Text="{Binding Name}"
+                               FontSize="Medium" TextColor="Black" />
+                            <Label Text="{Binding Price}"
+                               TextColor="Silver"
+                               FontSize="Small" />
+                            <Label Text="{Binding Quantity}"
+                               TextColor="Silver"
+                               FontSize="Small" />
+                        </StackLayout>
+                        
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

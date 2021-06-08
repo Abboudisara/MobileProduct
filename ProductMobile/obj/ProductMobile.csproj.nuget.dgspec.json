@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\Desktop\\ProductMobile\\ProductMobile.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\MobileProduct\\ProductMobile\\ProductMobile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\Desktop\\ProductMobile\\ProductMobile.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\MobileProduct\\ProductMobile\\ProductMobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\ProductMobile\\ProductMobile.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\MobileProduct\\ProductMobile\\ProductMobile.csproj",
         "projectName": "ProductMobile",
-        "projectPath": "C:\\Users\\Youcode\\Desktop\\ProductMobile\\ProductMobile.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\MobileProduct\\ProductMobile\\ProductMobile.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\Desktop\\ProductMobile\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\MobileProduct\\ProductMobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
